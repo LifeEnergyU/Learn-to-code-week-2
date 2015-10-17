@@ -2,6 +2,14 @@
     text-align: center;
 }
 
+    html {
+  background: url(https://www.colourbox.com/preview/2218566-terrible-man-with-axe-on-blue-background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .button {
     position: relative;
     top: 50%;
